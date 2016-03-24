@@ -13,5 +13,4 @@ Food.prototype = {
 
 };
 
-
 module.exports = Food;

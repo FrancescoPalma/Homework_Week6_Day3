@@ -3,6 +3,7 @@
   // - Heroes that eat poisonous food should lose health.
 
 var Rat = function() {
+
 };
 
 Rat.prototype = {
@@ -10,6 +11,5 @@ Rat.prototype = {
     food.poisoned = true;
   } 
 }
-
 
 module.exports = Rat;
