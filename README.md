@@ -1,4 +1,6 @@
-# JS Constructor Lab
+# JS Constructor Lab  
+  
+This assignment has been done using Pair Programming with [Peter](https://github.com/singhprd) ([Original Repo](https://github.com/singhprd/Game-lab))
 
 The task is to test drive the beginnings of an adventure game.
 
